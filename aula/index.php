@@ -1,9 +1,9 @@
-
-
-    
-
-
-    <div class="container-fluid">
+<?php
+require_once 'head.php';
+require_once 'menu.php';
+?>
+  
+  <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 text-center">
                 <img src="imagens/academia3.jpg" class="img-fluid">
@@ -76,4 +76,7 @@
       </div>
     </div>
 
-   
+
+<?php
+require_once 'footer.php';
+?>
